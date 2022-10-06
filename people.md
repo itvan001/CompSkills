@@ -21,16 +21,15 @@ about me:
   
 ***replace your number with your info given the template***
 
-##Hannah Woody
-Graduate Student
-
-email: hlwoody@alaska.edu
-website: hlwoody@githun.io
-about me: I'm studying permafrost microbes 
+1. 
 
 2. 
   
-3. 
+3. ##Hannah Woody
+
+email: hlwoody@alaska.edu
+website: hlwoody@github.io
+about me: I am studying permafrost microbes! 
  
 4. 
   
