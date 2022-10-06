@@ -21,7 +21,14 @@ about me:
   
 ***replace your number with your info given the template***
 
-1.
+
+## Caitlyn Oliver Brown
+*Graduate Curatorial Assistant*
+
+email: coliverbrown@alaska.edu
+website: github.com/coliverbrown
+about me: I like birds.
+
 
 ## Miles Spathelf
 GIS Analyst III
