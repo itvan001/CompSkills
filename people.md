@@ -27,7 +27,12 @@ about me:
   
 3. 
  
-4. 
+4. Augustus Snyder -- I am a first year PhD student here at UAF in 
+Kristin O'Brien's lab. I will be working on a project involving the 
+physiological response of Antarctic notothenioid fishes to hypoxia 
+stress. Outside of the lab and classes, I really like cycling and making 
+coffee & espresso. I'm beginning to get into climbing, and I hope to 
+explore cross-country skiing in the near future!
   
 5. 
   
