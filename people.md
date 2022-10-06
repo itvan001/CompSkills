@@ -2,10 +2,12 @@
 
 **Template**
 
-## Name 
-*Position Title*
-+ email:
-+ about me:
+## Isaac Van Flein
+Graduate Student in UAF Biological Sciences
++ email: itvanflein@alaska.edu
++ about me: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water 
+cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular 
+activity. 
 
   
 # Instructor  
@@ -33,7 +35,12 @@ about me:
   
 6. 
   
-7. 
+## Isaac Van Flein
+Graduate Student in UAF Biological Sciences
++ email: itvanflein@alaska.edu
++ about me: I am a hair-covered biped native to a small rocky planet with a liquid-dominant 
+water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my 
+cellular activity. 
   
 8. 
   
