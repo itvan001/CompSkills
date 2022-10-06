@@ -21,6 +21,8 @@ about me:
   
 ***replace your number with your info given the template***
 
+1.
+
 ## Miles Spathelf
 GIS Analyst III
 
@@ -29,8 +31,6 @@ website: https://www.adfg.alaska.gov/
 about me: Spatial ecologist with the Alaska Department of Fish and Game. 
 Currently intersted in ungulate movement corridors for guiding 
 conservation with increasing interest in infrastructure development. 
-
-2. 
   
 3. 
  
