@@ -23,9 +23,23 @@ about me:
   
 ***replace your number with your info given the template***
 
-1. 
 
-2. 
+## Caitlyn Oliver Brown
+*Graduate Curatorial Assistant*
+
+email: coliverbrown@alaska.edu
+website: github.com/coliverbrown
+about me: I like birds.
+
+
+## Miles Spathelf
+GIS Analyst III
+
+email: mospathelf@alaska.edu
+website: https://www.adfg.alaska.gov/
+about me: Spatial ecologist with the Alaska Department of Fish and Game. 
+Currently intersted in ungulate movement corridors for guiding 
+conservation with increasing interest in infrastructure development. 
   
 3. 
  
