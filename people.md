@@ -1,6 +1,6 @@
 # Participants in the 2022 Computational Skills in Biology Course at UAF
 
-<Template>
+**Template**
 
 ## Name 
 *Position Title*
@@ -19,7 +19,7 @@ about me:
   
 # Learners
   
-<replace your number with your info given the template>
+***replace your number with your info given the template***
 
 1. 
 
