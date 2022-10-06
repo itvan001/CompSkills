@@ -39,7 +39,11 @@ about me: Spatial ecologist with the Alaska Department of Fish and Game.
 Currently intersted in ungulate movement corridors for guiding 
 conservation with increasing interest in infrastructure development. 
   
-3. 
+3. ##Hannah Woody
+
+email: hlwoody@alaska.edu
+website: hlwoody@github.io
+about me: I am studying permafrost microbes! 
  
 4. 
   
