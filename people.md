@@ -67,15 +67,41 @@ explore cross-country skiing in the near future!
 **about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
 **research**: 
   
+  <br>
 
 ## Alex Cornwell
+*Student*
 
 **email**: acornwell2@alaska.edu  
+**about me**:    
 **research**: 
+
+
+<br>
+
 
 ## Kyoko Okano 
 *Ph.D. student*
 
 **email**: kokano@alaska.edu  
 **about me**: struggling but exciting to learn computulational skills!   
+**research**: 
+
+
+<br>
+
+## Noelle Picard 
+*Student*
+
+**email**:    
+**about me**:     
+**research**: 
+
+<br>
+
+## Amanda Kemp 
+*Student*
+
+**email**:    
+**about me**:     
 **research**: 
