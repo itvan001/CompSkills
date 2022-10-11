@@ -64,8 +64,11 @@ explore cross-country skiing in the near future!
 *Graduate Student in UAF Biological Sciences*
 
 **email**: itvanflein@alaska.edu  
-**about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
-**research**: 
+**about me**: I've lived in Alaska my whole life. I have a wonderful wife, a 
+terrific toddler, and a doofy dog.
+ **research**: I'm a graduate student at UAF in Dr. Abel 
+Bult-Ito's lab. My research involves testing a drug in mouse models of OCD and Autism to see 
+if the drug has any therapeutic effect on symptomatic behaviors.  
   
   <br>
 
