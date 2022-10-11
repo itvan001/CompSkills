@@ -16,8 +16,12 @@ activity.
 Assistant Professor of Microbiology
 
 email: memuscarella@alaska.edu
+
 website: MuscarellaLab@github.io
+
 about me: I like microbes
+
+
   
 # Learners
   
